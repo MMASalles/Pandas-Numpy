@@ -19,4 +19,5 @@ Typically used to read & write csv files, while performing data manipulations in
 
 [https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf](URL 'Pandas Cheat Sheet')
 
-[https://adriangcoder.medium.com/pandas-tricks-and-tips-a7b87c3748ea](URL 'Pandas for Time Series Data — Tricks and Tips)
+[https://adriangcoder.medium.com/pandas-tricks-and-tips-a7b87c3748ea](URL 'Pandas for Time Series Data — Tricks and Tips')
+
